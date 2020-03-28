@@ -11,4 +11,4 @@ app.use(routes);
 
 const port = process.env.PORT || 3331;
 
-app.listen(port, () => { console.log(`backend is running on ${port}`) });
+app.listen(port, () => { console.log(`backend rodando ${port}`) });
